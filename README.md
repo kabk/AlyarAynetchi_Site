@@ -1,4 +1,0 @@
-AlyarAynetchi_Site
-==================
-
-Sketch
